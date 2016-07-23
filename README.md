@@ -1,14 +1,14 @@
 # bootstrapresume
 
 * Ramyer
- * [GitHub](http://github.com/ramyer2011)
+ * [GitHub/ramyer2011](http://github.com/ramyer2011)
 * VerVer
- * [Github](http://github.com/verver1989)
+ * [Github/verver1989](http://github.com/verver1989)
 * cindylasco
- * [Github](http://github.com/cindylasco)
+ * [Github/cindylasco](http://github.com/cindylasco)
 * Edsan
- * [Github](http://github.com/edsan88)
+ * [Github/edsan88](http://github.com/edsan88)
 * Glester
- *[Github](http://github.com/glesterbd)
+ * [Github/glesterbd](http://github.com/glesterbd)
 * Kebinoy
- *[Github](http://github.com/kebinoy)
+ * [Github/kebinoy](http://github.com/kebinoy)
